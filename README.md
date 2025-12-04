@@ -169,6 +169,26 @@ var output = OldPhonePad.ConvertInput("your-input#");
 Console.WriteLine(output);
 ```
 
+## Installation Instructions
+
+To run this project, you need to install the .NET SDK. Follow the steps below:
+
+1. Download the .NET SDK from the official website: [Download .NET SDK x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-10.0.100-windows-x64-installer).
+2. Install the SDK by running the downloaded installer.
+3. Verify the installation by running the following command in your terminal:
+   ```powershell
+   dotnet --version
+   ```
+   This should display the installed version of the .NET SDK.
+
+## Running Tests
+
+After installing the .NET SDK, you can run the tests for this project by executing the following command in the project directory:
+
+```powershell
+dotnet run
+```
+
 ## 📝 API Documentation
 
 ### Method Signature
@@ -221,6 +241,12 @@ Developed as part of the Iron Software C# Coding Challenge
 ## 📧 Contact
 
 For questions about this implementation, please reach out to: namanjain34710@gmail.com
+
+## Prompt Used
+
+This project was developed using the following prompt:
+
+"Now you act as a senior C# developer and solve this problem as if I gave you the problem description in a PDF."
 
 ---
 
