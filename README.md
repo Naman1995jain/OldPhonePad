@@ -101,7 +101,7 @@ The solution includes comprehensive unit tests using xUnit framework:
 ### Running Tests
 
 ```bash
-dotnet test
+dotnet run
 ```
 
 ### Test Coverage

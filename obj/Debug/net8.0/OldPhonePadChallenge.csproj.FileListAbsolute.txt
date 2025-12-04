@@ -198,3 +198,4 @@ C:\Oldphone\obj\Debug\net8.0\refint\OldPhonePadChallenge.dll
 C:\Oldphone\obj\Debug\net8.0\OldPhonePadChallenge.pdb
 C:\Oldphone\obj\Debug\net8.0\OldPhonePadChallenge.genruntimeconfig.cache
 C:\Oldphone\obj\Debug\net8.0\ref\OldPhonePadChallenge.dll
+C:\Oldphone\obj\Debug\net8.0\OldPhonePadChallenge.sourcelink.json

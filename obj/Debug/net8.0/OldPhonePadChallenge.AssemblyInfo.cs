@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("A C# implementation of an old phone keypad text input system")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0c4edc744f5e23c328609f9bd8c52bd78b844ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("Old Phone Keypad Converter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OldPhonePadChallenge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
