@@ -1,0 +1,5 @@
+C:\test\obj\Debug\net6.0\OldPhonePadChallenge.csproj.AssemblyReference.cache
+C:\test\obj\Debug\net6.0\OldPhonePadChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\obj\Debug\net6.0\OldPhonePadChallenge.AssemblyInfoInputs.cache
+C:\test\obj\Debug\net6.0\OldPhonePadChallenge.AssemblyInfo.cs
+C:\test\obj\Debug\net6.0\OldPhonePadChallenge.csproj.CoreCompileInputs.cache
